@@ -3,7 +3,7 @@
 
 The Weather App allows users to check the weather conditions of a specific city. It utilizes the WeatherAPI to fetch real-time weather data and displays relevant information such as temperature, wind speed, humidity, and more.
 
-![Weather App Screenshot](https:/kantichandraka/github.com//Unified-Mentors/assets/149653208/ccc2d687-ab9f-464c-8140-409de665b84a)
+
 
 
 
@@ -33,5 +33,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 <hr>
 
-Made with ❤️ by Rohit
+Made with ❤️ by Kanti
 "# Weather-App" 
